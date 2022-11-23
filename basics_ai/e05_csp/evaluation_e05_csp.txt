@@ -1,0 +1,384 @@
+..F.FEEE
+======================================================================
+ERROR: test_sudoku_1 (__main__.SudokuTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 34, in timed_f
+    res = f(*args, **kwargs)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 146, in test_sudoku_1
+    solution = ex.backtracking(csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 137, in backtracking
+    _rec([], csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 90, in _rec
+    var = _select_unassigned(csp.variables) # hier geschieht der Fehler
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 19, in _select_unassigned
+    return var
+UnboundLocalError: local variable 'var' referenced before assignment
+
+======================================================================
+ERROR: test_sudoku_2 (__main__.SudokuTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 34, in timed_f
+    res = f(*args, **kwargs)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 155, in test_sudoku_2
+    solution = ex.backtracking(csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 137, in backtracking
+    _rec([], csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 90, in _rec
+    var = _select_unassigned(csp.variables) # hier geschieht der Fehler
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 19, in _select_unassigned
+    return var
+UnboundLocalError: local variable 'var' referenced before assignment
+
+======================================================================
+ERROR: test_sudoku_3 (__main__.SudokuTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 34, in timed_f
+    res = f(*args, **kwargs)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 164, in test_sudoku_3
+    solution = ex.backtracking(csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 137, in backtracking
+    _rec([], csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 106, in _rec
+    result = _rec(assignment, csp)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 90, in _rec
+    var = _select_unassigned(csp.variables) # hier geschieht der Fehler
+  File "/home/mtoussai/git/AI/group_146/e05_csp/ex_csp.py", line 19, in _select_unassigned
+    return var
+UnboundLocalError: local variable 'var' referenced before assignment
+
+======================================================================
+FAIL: test_mrv_order (__main__.MapColoringTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 34, in timed_f
+    res = f(*args, **kwargs)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 80, in test_mrv_order
+    self.assertTrue(variable_order in correct_variable_order)
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_mrv_with_degree_order (__main__.MapColoringTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 34, in timed_f
+    res = f(*args, **kwargs)
+  File "/home/mtoussai/git/AI/group_146/e05_csp/evaluating_test.py", line 125, in test_mrv_with_degree_order
+    self.assertTrue(variable_order in correct_variable_order)
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+Ran 8 tests in 1.907s
+
+FAILED (failures=2, errors=3)
+3/8 correct. 37.5%. 5 Errors
