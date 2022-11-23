@@ -1,4 +1,18 @@
-KONSOLENARGUMENTE
+# Project description / Projektbeschreibung
+
+![example graph](https://github.com/ErikKleinsteuber/experience-showcase/blob/main/python_wikicrawler/graphVisualisation.svg)
+
+## Deutsch
+
+...
+
+## English
+
+...
+
+
+
+### KONSOLENARGUMENTE
 
 Reihenfolge spielt keine Rolle unter den fünf
 aber immer 1. -argumenttyp 2. argument
