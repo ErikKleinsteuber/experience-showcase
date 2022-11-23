@@ -1,0 +1,1 @@
+{True: 1, 2: 2, 3: 3, False: 5, None: None, 6: False, 4: True, 'Hallo': 'Goodbye', "'''''": '""', 'Float:': 1.555, 'List: ': [[[1, 2, 3]]], 'Set: ': {1, 2, 3}, 'Dic: ': {'Dic': {'Dic': {}}}, 1.556: 1.666}

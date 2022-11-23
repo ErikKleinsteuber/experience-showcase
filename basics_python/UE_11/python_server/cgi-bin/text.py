@@ -1,0 +1,3 @@
+nilsZahl = ord("nils")
+
+print()

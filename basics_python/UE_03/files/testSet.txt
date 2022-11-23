@@ -1,0 +1,1 @@
+{False, True, 2, 3, 1.555, 10, None, "''''", 'True False None', '""""'}
